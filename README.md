@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GuisMartins/9cba514673d528badbc43ab3b9e23c43/raw/1a3b2c43a7138bc5eec18ea3eff8323b6084b5f9/cardgithub.svg"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Martins</h1>
+<h1 align="left">Hi, I'm Guilherme Martins</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuisMartins&color=yellow" alt="Profile views" /> </p>
 
 
